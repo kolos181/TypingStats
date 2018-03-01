@@ -1,0 +1,52 @@
+
+#typeText {
+    margin: 250px 250px 10px 250px;
+    font-size: 25px;
+}
+
+#word {
+    margin: 10px 0px 0px 250px;
+}
+
+.margin {
+    margin: 10px 0px 0px 250px;
+}
+
+.underlined {
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+.wrong {
+    background-color: #d86a6e;
+}
+
+#textArea {
+    width: 450px;
+    height: 200px;
+    border: solid;
+    margin-left: 250px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.milliseconds {
+    font-size: 10px;
+}
+
+.error {
+    background-color: darkred;
+}
+
+.mistakes {
+
+    padding-left: 250px;
+
+}
+
+.averageSpeed {
+
+    padding-left: 250px;
+
+}
